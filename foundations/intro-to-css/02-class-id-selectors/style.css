@@ -1,6 +1,7 @@
 /* Add CSS Styling */
 .odd {
     background-color: hwb(351 71% 0%);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #second-element {
